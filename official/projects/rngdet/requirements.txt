@@ -27,7 +27,7 @@ googleapis-common-protos==1.61.0
 grpcio==1.59.2
 h5py==3.10.0
 httplib2==0.22.0
-idna==3.4
+idna==3.7
 imageio==2.32.0
 immutabledict==3.0.0
 importlib-resources==6.1.1
