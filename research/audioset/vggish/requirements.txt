@@ -4,3 +4,4 @@ tensorflow
 tf_slim
 six
 soundfile
+keras>=2.13.1rc0 # not directly required, pinned by Snyk to avoid a vulnerability
