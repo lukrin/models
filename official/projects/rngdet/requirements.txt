@@ -97,7 +97,7 @@ tf-slim==1.1.0
 threadpoolctl==3.2.0
 tifffile==2023.9.26
 toml==0.10.2
-tqdm==4.66.1
+tqdm==4.66.3
 typing_extensions==4.8.0
 tzdata==2023.3
 uritemplate==4.1.1
