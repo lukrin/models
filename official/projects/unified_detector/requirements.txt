@@ -6,3 +6,5 @@ shapely>=1.8.1
 apache_beam>=2.37.0
 matplotlib>=3.5.1
 notebook>=6.4.10
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.5.3 # not directly required, pinned by Snyk to avoid a vulnerability
