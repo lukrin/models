@@ -29,3 +29,5 @@ immutabledict
 # Fix CI
 wrapt>=1.15
 
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
